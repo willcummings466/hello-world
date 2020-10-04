@@ -1,2 +1,3 @@
 # hello-world
-carpe diem
+Let each day's trouble be sufficient unto itself
+
